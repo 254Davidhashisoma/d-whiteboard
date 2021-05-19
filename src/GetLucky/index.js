@@ -83,7 +83,7 @@ export default class GetLucky extends Component {
           {this.state.recommendedProducts.map(products => {
             return products.map(product => (
               <li className="getlucky-eachproduct" key={product.name}>
-            <i className="fa fa-terminal fa-lg" aria-hidden="true" /> {`${product.name}  $${product.price}`}
+            <i className="fa fa-terminal fa-lg" aria-hidden="true" /> {`${product.name}  KSh${product.price}`}
               </li>
             ))
           })}

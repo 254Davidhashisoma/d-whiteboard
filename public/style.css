@@ -3,7 +3,8 @@
 
 html {
   font-family: 'Bellefair', serif;
-  background-color: #F9EADA;
+  background-color: #bda68e;
+  background-image: url(public/images/skin.jpeg);
   color: #333;
 }
 

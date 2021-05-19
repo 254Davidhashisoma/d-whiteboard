@@ -47,3 +47,4 @@ export class SingleConcern extends Component {
     );
   }
 }
+
