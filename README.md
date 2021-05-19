@@ -1,8 +1,8 @@
-# Allison's Skin Lab
+# Hashisoma's Skin Lab
 
 A platform to learn about skincare ingredients and receive product recommendations.
 Plus, fun quizzes!
-Deployed site: [skincare.allisonzhao.com](http://skincare.allisonzhao.com)
+Deployed site: [skincare.hashisoma.com](http://skincare.hashisoma.com)
 
 ## Why Skin Lab?
 
